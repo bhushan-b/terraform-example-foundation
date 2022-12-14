@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-org_id = "REPLACE_ME" # format "000000000000"
+org_id = "965061874983" # format "000000000000"
 
-billing_account = "REPLACE_ME" # format "000000-000000-000000"
+billing_account = "0090FE-ED3D81-AF8E3B" # format "000000-000000-000000"
 
 group_org_admins = "REPLACE_ME"
 
